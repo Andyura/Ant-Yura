@@ -1,10 +1,5 @@
-- 👋 Hi, I’m You
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-anyuras/anyuras is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m yeah im
+- 👀 I’m interested in You
+- 🌱 I’m currently learning You
+- 💞️ I’m looking to collaborate on You
+- 📫 How to reach me nothing just You can do it.
